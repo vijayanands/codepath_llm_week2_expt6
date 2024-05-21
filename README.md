@@ -6,7 +6,7 @@ git clone https://github.com/vijayanands/codepath_llm_week2_expt6.git
 </code>
 </pre>
 
-Now edit the .env 
+Now edit the .env file to update the env variable values
 ```
 HF_HUB_TOKEN=<HuggingFaceToken>
 OPENAI_API_KEY=<OpenAIApiKey>
